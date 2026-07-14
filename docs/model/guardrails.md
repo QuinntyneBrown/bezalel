@@ -24,7 +24,7 @@ Technology that meets the redemptive frame in [`docs/vision/redemptive-frame.md`
 - Every project ends with a documented handoff: mission partners should never be left holding a system only the build team understands.
 - Mission partners can say no, pause, or exit a project at any point without it being treated as a failure.
 - Backing partners cannot buy priority, weaken the redemptive criteria, or dictate product decisions that belong to the mission partner and project team.
-- Bezalel uses **no non-compete** — against practitioners, mission partners, or backing partners. Partner interests are protected through ownership, portability, and the conflict-of-interest guardrail below, not by restraining anyone from competing. See [`docs/decisions/0002-no-non-compete-partner-ip-posture.md`](../decisions/0002-no-non-compete-partner-ip-posture.md).
+- Bezalel uses **no non-compete** — against practitioners, mission partners, backing partners, or infrastructure partners. Partner interests are protected through ownership, portability, and the conflict-of-interest guardrail below, not by restraining anyone from competing. See [`docs/decisions/0002-no-non-compete-partner-ip-posture.md`](../decisions/0002-no-non-compete-partner-ip-posture.md).
 
 ## Backing and infrastructure partners: conflict of interest
 
