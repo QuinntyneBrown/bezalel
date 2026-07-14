@@ -1,6 +1,6 @@
 ---
 name: Initiative task
-about: A task related to the Bezalel model, playbooks, or documentation (not an engagement proposal)
+about: A task related to the Bezalel model, playbooks, or documentation (not a continuation project proposal)
 title: ""
 labels: initiative-task
 ---

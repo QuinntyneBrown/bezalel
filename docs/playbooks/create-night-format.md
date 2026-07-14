@@ -1,6 +1,6 @@
 # Create night format
 
-How a FaithTech Create night runs, and how it feeds the Bezalel pipeline.
+How a FaithTech Create night runs, and how it feeds the model FaithTech Toronto is exploring through Bezalel.
 
 ## Purpose
 
@@ -17,7 +17,7 @@ As the recurring, ongoing cadence of FaithTech Toronto community formation — n
 1. **Gather.** Practitioners at varying experience levels come together in a shared space.
 2. **Form.** Structured learning, mentorship, or paired work that develops practical skill — not just talks.
 3. **Surface problems.** Time is set aside for partner problems to be introduced, from churches, ministries, or nonprofits connected to the community.
-4. **Connect.** Practitioners are connected to problems they're energized by, building the relationships that later staff hackathons and engagements.
+4. **Connect.** Practitioners are connected to problems they're energized by, building the relationships that later staff hackathons and selected continuation projects.
 
 ## Outputs
 

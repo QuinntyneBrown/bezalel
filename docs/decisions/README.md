@@ -1,6 +1,6 @@
 # Decisions
 
-Lightweight ADR-style decision records for the Bezalel initiative itself — not for individual engagement's technical decisions, but for changes to how Bezalel as a model operates.
+Lightweight ADR-style decision records for the Bezalel initiative itself — not for an individual partner project's technical decisions, but for changes to the model FaithTech Toronto is exploring.
 
 ## Format
 

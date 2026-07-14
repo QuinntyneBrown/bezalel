@@ -1,7 +1,7 @@
 ---
-name: Engagement proposal
-about: Propose a new Bezalel engagement
-title: "[Engagement] "
+name: Continuation project proposal
+about: Propose that a hackathon prototype be considered for a partner-backed continuation project
+title: "[Project] "
 labels: engagement-proposal
 ---
 
@@ -9,13 +9,13 @@ labels: engagement-proposal
 
 What specific problem is being addressed? What breaks today, and what does it cost the partner?
 
-## Partner
+## Mission partner
 
 Who is the partner organization? Who is the proposed domain steward?
 
 ## Origin
 
-Where did this come from — a Create night, a hackathon prototype, or a direct partner request? Link to any related discussion or prototype.
+Which Create program and hackathon did this come through? Link to the related discussion and prototype.
 
 ## Redemptive angle
 
@@ -32,3 +32,7 @@ Confirm this proposal doesn't cross any line in [`docs/model/guardrails.md`](../
 ## Proposed lead / team
 
 Who is proposing to lead this, and who else is interested in joining?
+
+## Backing required
+
+What practitioner time, funding, tools, mentorship, professional services, or other resources would a responsible continuation require? Name any backing already committed. Do not quote a fee to the mission partner.

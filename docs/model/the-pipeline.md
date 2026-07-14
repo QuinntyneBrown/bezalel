@@ -3,7 +3,7 @@
 The flywheel in detail, with explicit hand-off criteria between each stage.
 
 ```
-Create ──► Hackathon ──► Bezalel engagement ──► Feedback ──► (back into Create)
+Create ──► Hackathon ──► Partner-backed build ──► Feedback ──► (back into Create)
 ```
 
 ## Stage 1 — Create
@@ -18,18 +18,18 @@ Create ──► Hackathon ──► Bezalel engagement ──► Feedback ─�
 
 **Purpose:** prototype solutions against a surfaced problem in a compressed, time-boxed format.
 
-**Hand-off criteria into a Bezalel engagement:** a prototype is a candidate for an engagement when it (a) demonstrates a genuinely workable approach to the partner's actual problem, not just a demo-day illusion, (b) the partner confirms the problem still matters and they want to continue, and (c) at least one practitioner from the hackathon team is willing to stay involved through discovery. Not every hackathon prototype should become an engagement — most shouldn't. See [`docs/playbooks/hackathon-to-engagement.md`](../playbooks/hackathon-to-engagement.md).
+**Hand-off criteria into a continuation project:** a prototype is a candidate when it (a) demonstrates a genuinely workable approach to the mission partner's actual problem, not just a demo-day illusion, (b) the mission partner confirms the problem still matters and they want to continue, (c) at least one practitioner from the hackathon team is willing to stay involved through discovery, and (d) there is a credible path to the team capacity and backing the work will require. Not every hackathon prototype should continue — most shouldn't. See [`docs/playbooks/hackathon-to-engagement.md`](../playbooks/hackathon-to-engagement.md).
 
-## Stage 3 — Bezalel engagement
+## Stage 3 — Partner-backed continuation build
 
-**Purpose:** take a validated prototype from demo quality to durable, well-architected, documented, and handed-off software.
+**Purpose:** take a validated prototype from demo quality toward durable, well-architected, documented, and handed-off software, free of charge to the mission partner.
 
-**Hand-off criteria into feedback/close:** an engagement is done when the partner can operate and maintain the system without the Bezalel team present (or has a clear, resourced plan for ongoing support), the redemptive angle named at scoping has been delivered against, and the engagement record in [`docs/engagements/`](../engagements/) is filled out. See [`docs/playbooks/scoping-an-engagement.md`](../playbooks/scoping-an-engagement.md) and [`docs/model/offerings.md`](offerings.md).
+**Hand-off criteria into feedback/close:** a project is done when the mission partner can operate and maintain the system without the build team present (or has a clear, resourced plan for ongoing support), the redemptive angle named at scoping has been delivered against, and the project record in [`docs/engagements/`](../engagements/) is filled out. See [`docs/playbooks/scoping-an-engagement.md`](../playbooks/scoping-an-engagement.md) and [`docs/model/offerings.md`](offerings.md).
 
 ## Stage 4 — Feedback
 
 **Purpose:** close the loop. Learnings, new practitioners, and outcomes flow back into Create and the next hackathon cycle.
 
-Concretely: engagement leads write up what worked and what didn't (a decision record if it changes the model, an engagement record either way); practitioners who grew through an engagement are invited to mentor in the next Create cohort; partners who had a good experience are asked to refer other partners.
+Concretely: project leads write up what worked and what didn't (a decision record if it changes the model, a project record either way); practitioners who grew through a project are invited to mentor in the next Create cohort; mission partners who had a good experience may refer other mission partners; and backing needs inform future partnership development.
 
-> TODO(quinn): add any formal review cadence (e.g., quarterly retro across all active engagements) you want documented here.
+> TODO(quinn): add any formal review cadence (e.g., a quarterly retro across all active projects) you want documented here.

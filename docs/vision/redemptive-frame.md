@@ -18,6 +18,6 @@ A piece of technology work is **redemptive** if it meets all three:
 
 ## How this gets applied
 
-Every engagement should be able to answer, in one paragraph: who is worse off today, what specifically will be different for them, and why the team building it can be trusted to finish and sustain it. The [engagement template](../engagements/_template.md) has an explicit "redemptive angle" field for this reason.
+Every partner project should be able to answer, in one paragraph: who is worse off today, what specifically will be different for them, and why the team building it can be trusted to finish and sustain it. The [project template](../engagements/_template.md) has an explicit "redemptive angle" field for this reason.
 
 > TODO(quinn): add the specific theological/ethical framework references you want this grounded in (e.g., particular authors, FaithTech's own stated framework, or scriptural themes beyond Exodus 31) so this isn't just house reasoning.

@@ -1,15 +1,15 @@
-# Engagements
+# Partner projects
 
-Index of Bezalel engagements.
+Index of free-to-mission-partner continuation projects run while FaithTech Toronto explores the Bezalel model. The directory keeps the existing `engagements` name as an internal project term; these are not consulting contracts.
 
 ## Format
 
-Each engagement gets its own file in this directory, following [`_template.md`](_template.md): problem, partner, redemptive angle, scope, team, status, outcomes. Engagements are recorded regardless of outcome — including ones that were discovered, scoped, and then paused or declined — so the model keeps improving.
+Each project gets its own file in this directory, following [`_template.md`](_template.md): problem, mission partner, redemptive angle, scope, team, backing, status, and outcomes. Projects are recorded regardless of outcome — including ones that were discovered, scoped, and then paused or declined — so the model keeps improving.
 
 ## Index
 
-> TODO(quinn): no engagements have been recorded yet. Add a row here for each engagement as it starts, e.g.:
+> TODO(quinn): no projects have been recorded yet. Add a row here for each project as it starts, e.g.:
 >
-> | Engagement | Partner | Status | Started |
+> | Project | Mission partner | Status | Started |
 > |---|---|---|---|
 > | _(none yet)_ | | | |
