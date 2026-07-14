@@ -20,7 +20,7 @@ Technology that meets the redemptive frame in [`docs/vision/redemptive-frame.md`
 - Mission partners are not clients and are not charged a service fee for Bezalel work.
 - No project proceeds without discovery — a mission partner's stated solution is a starting hypothesis, not a spec.
 - Partners retain ownership of their data and, by default, the software built for them.
-- Built software is released under an open-source license by default, so a mission partner can always leave any infrastructure or backing partner and take their code with them. (The specific default license is a pending decision — see the `TODO(quinn)` in [`README.md`](../../README.md).)
+- Built software is released under an open-source license by default, so a mission partner can always leave any infrastructure or backing partner and take their code with them. (The specific default license is a pending decision.)
 - Every project ends with a documented handoff: mission partners should never be left holding a system only the build team understands.
 - Mission partners can say no, pause, or exit a project at any point without it being treated as a failure.
 - Backing partners cannot buy priority, weaken the redemptive criteria, or dictate product decisions that belong to the mission partner and project team.
