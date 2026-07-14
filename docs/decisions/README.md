@@ -11,5 +11,6 @@ Each decision is a numbered file: `NNNN-short-title.md`. Include context, the de
 | # | Title |
 |---|---|
 | [0001](0001-adopt-bezalel-name.md) | Adopt the Bezalel name |
+| [0002](0002-no-non-compete-partner-ip-posture.md) | No non-compete; protect partners through IP posture instead |
 
 > TODO(quinn): add further decisions as they're made (e.g., governance structure, funding model, first partner selection criteria).

@@ -20,9 +20,19 @@ Technology that meets the redemptive frame in [`docs/vision/redemptive-frame.md`
 - Mission partners are not clients and are not charged a service fee for Bezalel work.
 - No project proceeds without discovery — a mission partner's stated solution is a starting hypothesis, not a spec.
 - Partners retain ownership of their data and, by default, the software built for them.
+- Built software is released under an open-source license by default, so a mission partner can always leave any infrastructure or backing partner and take their code with them. (The specific default license is a pending decision — see the `TODO(quinn)` in [`README.md`](../../README.md).)
 - Every project ends with a documented handoff: mission partners should never be left holding a system only the build team understands.
 - Mission partners can say no, pause, or exit a project at any point without it being treated as a failure.
 - Backing partners cannot buy priority, weaken the redemptive criteria, or dictate product decisions that belong to the mission partner and project team.
+- Bezalel uses **no non-compete** — against practitioners, mission partners, or backing partners. Partner interests are protected through ownership, portability, and the conflict-of-interest guardrail below, not by restraining anyone from competing. See [`docs/decisions/0002-no-non-compete-partner-ip-posture.md`](../decisions/0002-no-non-compete-partner-ip-posture.md).
+
+## Backing and infrastructure partners: conflict of interest
+
+FaithTech forms partnerships with infrastructure organizations and other orgs whose hosting, tooling, or services mission partners can benefit from. Where a backing or infrastructure partner also stands to benefit commercially from hosting or managing the software — or from the mission partner adopting its platform:
+
+- That interest must be **disclosed** to the mission partner and the project team.
+- The partner may **not steer** product or architecture decisions toward its own platform; those decisions belong to the mission partner and project team.
+- The mission partner's **ownership and exit rights are never conditioned** on staying with that partner. Code and data must remain portable, so "managed by partner X" never becomes "trapped at partner X."
 
 ## Protecting practitioners
 
